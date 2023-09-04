@@ -39,10 +39,10 @@ You can view the full Figma design by clicking on the image above or by followin
 
 Include screenshots or GIFs showcasing your project's interface or functionality. You can embed images like this:
 
-![Screenshot 1](/assets/screenshot/2.jpeg) 
-![Screenshot 2](/assets/screenshot/4.jpeg)
-![Screenshot 3](/assets/screenshot/1.jpeg)
-![Screenshot 4](/assets/screenshot/3.jpeg)
+![Screenshot 1](/assets/screenshot/2.png) 
+![Screenshot 2](/assets/screenshot/4.png)
+![Screenshot 3](/assets/screenshot/1.png)
+![Screenshot 4](/assets/screenshot/3.png)
 
 ## Installation
 
