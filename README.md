@@ -6,6 +6,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Figma Mockup](#figma_mockup)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,9 +21,19 @@
 ## Features
 
 List key features of your project:
-- Default Weather report of your live location
-- Search Any Location weather report
+- Real-time weather data display.
+- Location-based weather forecasts.
+- Beautiful and responsive user interface.
 - Rain prediction indicator
+
+## Figma_Mockup
+Check out the Figma mockup for this project:
+
+[![Figma Mockup](/assets/screenshot/figma.png)](https://www.figma.com/file/8XOeD7q8qPB2QAUEWw3RD2/Untitled?type=design&node-id=0%3A1&mode=design&t=7Capn8hMx7JVK6mt-1)
+
+
+You can view the full Figma design by clicking on the image above or by following this [link](https://www.figma.com/file/8XOeD7q8qPB2QAUEWw3RD2/Untitled?type=design&node-id=0%3A1&mode=design&t=7Capn8hMx7JVK6mt-1).
+
 
 ## Screenshots
 
@@ -38,7 +49,11 @@ Include screenshots or GIFs showcasing your project's interface or functionality
 Provide instructions on how to install your project. Include any prerequisites, dependencies, or setup steps.
 
 ```bash
-# Example installation steps
+# Installation steps
 git clone https://github.com/rehan22113/weatherapp.git
 cd weatherapp
 npm install
+```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
